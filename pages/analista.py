@@ -6,6 +6,9 @@ import os
 print("Archivo usado por ANALISTA:")
 print(os.path.abspath("comentarios.csv"))
 
+# logo en panel izquierdo
+
+st.sidebar.image("logo_kraft.png", use_container_width=True)
 
 # SECCIÓN DEL ENCABEZADO ----------------------------------------------------------------------------------------------------
 
