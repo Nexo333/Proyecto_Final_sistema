@@ -1,0 +1,25 @@
+fecha,categoria,comentario,sentimiento,confianza
+18/09/2026 09:53:39,watch,Compré un smartwatch Huawei y se me dañó la pantalla,negative,0.9382333159446716
+18/09/2026 09:58:29,wireless,"Buen día, estoy muy contento con la compra de mi extensor WiFi TP-Link, es lo que necesitaba",positive,0.9873654842376709
+18/09/2026 09:59:06,beauty,"Latimosamente el rizador de pestañas que pedí llegó muy maltratado, un mal servicio",negative,0.9596627354621887
+18/09/2026 09:59:51,pc,"La laptop Acer Nitro 5 que me llegó, no está funcionando bien, se calienta mucho",negative,0.9255006313323975
+18/09/2026 10:01:56,pc,Me llegó bien la pc de escritorio,positive,0.7640973925590515
+18/09/2026 10:02:21,pc,Mi Asus Vivobook 15 Core i7 es rápida!,positive,0.8742747902870178
+18/09/2026 10:02:51,pc,Esa laptop Asus TUF gamer con Ryzen 5 pensé que era más veloz,neutral,0.8006697297096252
+18/09/2026 10:03:34,pc,Si me preguntan cómo calificaría a mi laptop hp celeron diría que es un producto común y corriente,neutral,0.6734777092933655
+18/09/2026 14:14:53,book,"Adquirí el libro: ""Cien años de soledad"" de Gabriel García Márquez y llegó con un regalo, muchas gracias",positive,0.8946287631988525
+18/09/2026 14:15:21,home,La lámpara nocturna que compré es muy bonita,positive,0.8426742553710938
+18/09/2026 14:15:50,musical_instruments,Ayer compré una guitarra eléctrica pero no me gustó mucho la calidad,negative,0.6632035374641418
+18/09/2026 14:16:18,sports,Hicimos la compra de 3 balones #5 y nos encantaron,positive,0.9170998930931091
+18/09/2026 14:17:14,watch,"El casio MPT-1815 está increíble, excelente calidad/precio",positive,0.9784017205238342
+18/09/2026 14:17:46,pc,"Mi nueva laptop MSI es muy rápida, muy contento con mi compra",positive,0.9625042080879211
+18/09/2026 14:18:09,apparel,Hace dos días compré unas camisetas y me quedaron muy grandes,negative,0.655384361743927
+18/09/2026 15:10:04,apparel,Ayer hice la compra de 12 corbatas y me encantaron,positive,0.9405994415283203
+18/09/2026 15:14:52,automotive,Compré un cubre volante de 15 pulgadas y no me gustó su calidad,negative,0.835163950920105
+18/09/2026 15:20:11,beauty,"Recientemente compré un set de maquillaje y llegó con todos los accesorios que me prometieron, gracias",positive,0.9198145270347595
+18/09/2026 15:24:24,kitchen,"El día miércoles adquirimos un sartén antiadherente pero si se pega la comida, no lo recomiendo",negative,0.7641099691390991
+18/09/2026 16:25:20,apparel,"Mi pantalón jean vino roto, no lo puedo creer!",negative,0.9667118191719055
+18/09/2026 16:25:37,pc,Ese mouse logitech es una mierd....,negative,0.7860170602798462
+18/09/2026 16:26:05,pc,"Que lástima que lo que promocionan no es verdad, el teclado mecánico red dragon se me dañó",negative,0.9756591320037842
+18/09/2026 16:26:18,pc,Mi laptop hp dejó de cargar en 3 semanas,negative,0.9326031804084778
+18/09/2026 16:26:41,pc,La mayor decepción es haber comprado mis auriculares logitech en su tienda,negative,0.9751988649368286
