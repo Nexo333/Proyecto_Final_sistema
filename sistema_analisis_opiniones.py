@@ -9,6 +9,9 @@ import os
 print("Archivo usado por CLIENTE:")
 print(os.path.abspath("comentarios.csv"))
 
+# Logo en el panel izquierdo
+st.sidebar.image("logo_kraft.png", use_container_width=True)
+
 # Encabezado
 st.image("Tu_opinion_fondo.png", use_container_width=True)
 
